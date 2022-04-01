@@ -1,4 +1,4 @@
-# whattsapp_extermination_msgkey
+# whattsapp_msgkey
 2 scripts, os 2 fazem a mesma coisa. Um dedicado a usuários mais leigos, e outro para ser prático.
 
 whatsapp_msgkey.sh - um dos script é simples e vai interagindo com o usuário via s ou n, ele exclui ou não os arquivos inúteis(de cache) em diversas pastas relacionadas ao whatsapp. Para executar basta digitar bash whatsapp_msgkey.sh no Termux ou outro terminal do android.
